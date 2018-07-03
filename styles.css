@@ -1,0 +1,44 @@
+#heading {
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+}
+
+#subheading{
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  padding-left: 18px;
+}
+
+#info{
+  font-family: Arial, sans-serif;
+  max-width:25%;
+  margin:auto;
+  text-align:left;
+}
+
+.bulletpoints{
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  font-style: italic;
+}
+
+.bulletpoints > ul {
+  display: inline-block;
+}
+
+.bulletheading{
+  font-size: 18px;
+  padding-left: 18px;
+  text-align: center;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+ul{
+  max-width:25%;
+  margin:auto;
+  text-align:left;
+}
